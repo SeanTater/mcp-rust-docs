@@ -13,7 +13,7 @@ This is a Model Context Protocol (MCP) server that fetches and returns documenta
 
 ```bash
 # Clone the repository
-git https://github.com/0xKoda/mcp-rust-docs.git
+git clone https://github.com/0xKoda/mcp-rust-docs.git
 cd mcp-rust-docs
 
 # Install dependencies
